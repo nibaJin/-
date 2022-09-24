@@ -2,8 +2,8 @@
 
 原理： app通过上传当前屏幕截图以及截图相关的所有元素至后台，前端通过上传的数据进行可视化展示，以及可视化绑定。
 例子：
-![企业微信20220712-173300.png](/tfl/pictures/202207/tapd_30391015_1657618402_7.png)
-![企业微信20220711-181646.png](/tfl/pictures/202207/tapd_30391015_1657534624_58.png)
+![企业微信20220712-173300.png](https://github.com/nibaJin/visualization-module/blob/main/img/tapd_30391015_1657618402_7.png?raw=true)
+![企业微信20220711-181646.png](https://github.com/nibaJin/visualization-module/blob/main/img/tapd_30391015_1657534624_58.png?raw=true)
 
 ### `1.elementMd5`
 > 元素id，用于前端布局。
@@ -20,7 +20,7 @@
 元素能否曝光
 ### `6.clickable`
 元素能否点击
-![企业微信20220712-165944.png](/tfl/pictures/202207/tapd_30391015_1657616431_86.png)
+![企业微信20220712-165944.png](https://github.com/nibaJin/visualization-module/blob/main/img/tapd_30391015_1657616431_86.png?raw=true)
 
 ##平时埋点，我们其实就是在处理这两个字段：spmXpathMd5、exposureEnable
 ``` 
@@ -30,7 +30,4 @@
 ```
 
 **参谋后台展示：**
-![企业微信20220711-182259.png](/tfl/pictures/202207/tapd_30391015_1657535001_6.png)
-> 引用
-[可视化测试后台](https://bibeta.banggood.com/#/track/visual) 
-[json格式化链接](https://jsoneditoronline.cn/)
+![企业微信20220711-182259.png](https://github.com/nibaJin/visualization-module/blob/main/img/tapd_30391015_1657535001_6.png?raw=true)
